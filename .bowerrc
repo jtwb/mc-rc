@@ -1,0 +1,6 @@
+{
+    "endpoint": "https://mc-bower.odessa-labs.com",
+    "searchpath": [
+        "https://bower.herokuapp.com"
+    ]
+}
